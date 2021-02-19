@@ -1,7 +1,7 @@
 
->
-java:S5786"Remove this 'public' modifier.(ˆ‰ÓÎşÿÿÿÿ8â„íÙú.
-M
-java:S2699"-Add at least one assertion to this test case.(—¨µüÿÿÿÿ8ûáª÷ú.
-~
-java:S1607"^Either add an explanation about why this test is skipped or remove the "@Disabled" annotation.(ÿçåâıÿÿÿÿ8ôòëöú.
+P
+java:S2699“"-Add at least one assertion to this test case.(—¨µüÿÿÿÿ8ûáª÷ú.
+
+java:S1607¢"^Either add an explanation about why this test is skipped or remove the "@Disabled" annotation.(ÿçåâıÿÿÿÿ8ôòëöú.
+@
+java:S5786#"Remove this 'public' modifier.(ˆ‰ÓÎşÿÿÿÿ8â„íÙú.
