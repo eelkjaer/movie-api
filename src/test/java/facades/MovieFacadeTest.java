@@ -1,5 +1,7 @@
 package facades;
 
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.containsInAnyOrder;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import dtos.MovieDTO;
@@ -71,6 +73,6 @@ class MovieFacadeTest {
     List<MovieDTO> actual = facade.getAll();
     List<MovieDTO> expected = List.of(md1, md2);
 
-    assertEquals(actual, expected);
+    assertThat(actual, containsInAnyOrder(expected.toArray()));
   }
 }
