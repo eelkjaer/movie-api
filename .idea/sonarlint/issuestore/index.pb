@@ -1,0 +1,21 @@
+
+T
+$src/main/java/utils/EMF_Creator.java,a/6/a6413ef37c4456477d031ba176b506b38f864ee9
+P
+ src/main/java/utils/Utility.java,1/6/16f8bb79679fd739722cf3f7e1744b01fe78196d
+Y
+)src/main/java/rest/ApplicationConfig.java,9/0/90ac5c23e9442bffeba94702ec934d195da1b2f4
+U
+%src/main/java/rest/MovieResource.java,b/b/bbd193a7ac3fd7568d619a968798578c4611565f
+Z
+*src/test/java/facades/MovieFacadeTest.java,7/d/7d0bddeb0934fc9df0f0f4f6798b214022f3fde2
+Y
+)src/test/java/rest/MovieResourceTest.java,3/4/343ec791dc93308198e9174bef6b4944e29df170
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+P
+ src/main/java/dtos/MovieDTO.java,e/4/e479321d8e7dc0b9a4920ebcfd0932f5c33c49e8
+Q
+!src/main/java/entities/Movie.java,5/a/5ac4d42991937112a71d9aa2a5947388ba5c7ffb
+V
+&src/main/java/facades/MovieFacade.java,2/5/25442bcc7d0a7eb8a2430a6fbcd05ba7e7193121

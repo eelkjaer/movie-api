@@ -1,0 +1,7 @@
+
+N
+java:S1144"5Remove this unused private "getEntityManager" method.(«Äí£ýÿÿÿÿ
+q
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "count".(¼÷Œñ
+E
+java:S1612",Replace this lambda with a method reference.(“ˆµ¿úÿÿÿÿ
